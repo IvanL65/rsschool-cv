@@ -1,5 +1,9 @@
 # IvanL65 | rsschool-cv
 
+![Foto]
+
+[foto]: https://st.peopletalk.ru/wp-content/uploads/2016/10/orig_ffcfa7b6d638000d1a9a9e8e0638d546-1024x967.jpg
+
 1. Ivan 
 
 2. Contacts
@@ -30,6 +34,3 @@ multiply(a, b)
 
 8. Knowledge of English A1
 
-9. ![Foto]
-
-[foto]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fkrystalittle%2Flogos%2F&psig=AOvVaw32Y8j3KJmVcljxTlj-qZdU&ust=1678635089717000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCID325OZ1P0CFQAAAAAdAAAAABAE
